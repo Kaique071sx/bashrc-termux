@@ -1,4 +1,4 @@
-# Bashrc Termux - Estilo Kali Linux
+ Bashrc Termux - Estilo Kali Linux
 
 Bashrc personalizado para Termux com tema visual do Kali Linux, aliases uteis e funcoes avancadas.
 
@@ -52,7 +52,7 @@ Bashrc personalizado para Termux com tema visual do Kali Linux, aliases uteis e 
 
 ```bash
 # Clone o repositorio
-git clone https://github.com/seu-usuario/bashrc-termux.git
+git clone https://github.com/Kaique071sx/bashrc-termux.git
 
 # Copie para sua home
 cp bashrc-termux/.bashrc ~/
